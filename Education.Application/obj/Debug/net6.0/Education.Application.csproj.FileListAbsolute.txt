@@ -1,0 +1,17 @@
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Application\bin\Debug\net6.0\Education.Application.deps.json
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Application\bin\Debug\net6.0\Education.Application.dll
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Application\bin\Debug\net6.0\Education.Application.pdb
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Application\bin\Debug\net6.0\Education.Domain.dll
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Application\bin\Debug\net6.0\Education.Persistence.dll
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Application\bin\Debug\net6.0\Education.Domain.pdb
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Application\bin\Debug\net6.0\Education.Persistence.pdb
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Application\obj\Debug\net6.0\Education.Application.csproj.AssemblyReference.cache
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Application\obj\Debug\net6.0\Education.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Application\obj\Debug\net6.0\Education.Application.AssemblyInfoInputs.cache
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Application\obj\Debug\net6.0\Education.Application.AssemblyInfo.cs
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Application\obj\Debug\net6.0\Education.Application.csproj.CoreCompileInputs.cache
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Application\obj\Debug\net6.0\Education.Application.csproj.CopyComplete
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Application\obj\Debug\net6.0\Education.Application.dll
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Application\obj\Debug\net6.0\refint\Education.Application.dll
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Application\obj\Debug\net6.0\Education.Application.pdb
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Application\obj\Debug\net6.0\ref\Education.Application.dll

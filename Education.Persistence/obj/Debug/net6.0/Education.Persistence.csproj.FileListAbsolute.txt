@@ -1,0 +1,17 @@
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Persistence\bin\Debug\net6.0\Education.Persistence.deps.json
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Persistence\bin\Debug\net6.0\Education.Persistence.runtimeconfig.json
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Persistence\bin\Debug\net6.0\Education.Persistence.dll
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Persistence\bin\Debug\net6.0\Education.Persistence.pdb
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Persistence\bin\Debug\net6.0\Education.Domain.dll
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Persistence\bin\Debug\net6.0\Education.Domain.pdb
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Persistence\obj\Debug\net6.0\Education.Persistence.csproj.AssemblyReference.cache
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Persistence\obj\Debug\net6.0\Education.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Persistence\obj\Debug\net6.0\Education.Persistence.AssemblyInfoInputs.cache
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Persistence\obj\Debug\net6.0\Education.Persistence.AssemblyInfo.cs
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Persistence\obj\Debug\net6.0\Education.Persistence.csproj.CoreCompileInputs.cache
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Persistence\obj\Debug\net6.0\Education.Persistence.csproj.CopyComplete
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Persistence\obj\Debug\net6.0\Education.Persistence.dll
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Persistence\obj\Debug\net6.0\refint\Education.Persistence.dll
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Persistence\obj\Debug\net6.0\Education.Persistence.pdb
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Persistence\obj\Debug\net6.0\Education.Persistence.genruntimeconfig.cache
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Persistence\obj\Debug\net6.0\ref\Education.Persistence.dll

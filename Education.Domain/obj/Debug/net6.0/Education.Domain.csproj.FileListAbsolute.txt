@@ -1,0 +1,12 @@
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Domain\obj\Debug\net6.0\Education.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Domain\obj\Debug\net6.0\Education.Domain.AssemblyInfoInputs.cache
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Domain\obj\Debug\net6.0\Education.Domain.AssemblyInfo.cs
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Domain\obj\Debug\net6.0\Education.Domain.csproj.CoreCompileInputs.cache
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Domain\bin\Debug\net6.0\Education.Domain.deps.json
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Domain\bin\Debug\net6.0\Education.Domain.dll
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Domain\bin\Debug\net6.0\Education.Domain.pdb
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Domain\obj\Debug\net6.0\Education.Domain.dll
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Domain\obj\Debug\net6.0\refint\Education.Domain.dll
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Domain\obj\Debug\net6.0\Education.Domain.pdb
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Domain\obj\Debug\net6.0\ref\Education.Domain.dll
+D:\UdemyFull\PruebasUnitarias\CQRS_UnitTest\Education_UnitTest\Education.Domain\obj\Debug\net6.0\Education.Domain.csproj.AssemblyReference.cache
